@@ -1,12 +1,15 @@
 # DAFTAR ISI
 
-{% page-ref page="../" %}
+| Daftar Isi |  |
+| :--- | :--- |
+| adsf |  |
+| asdf |  |
+| asdf |  |
+| asdf |  |
+| dasf |  |
+| sdfa |  |
 
-{% page-ref page="../kata-pengantar.md" %}
-
-{% page-ref page="sejarah-toyomarto/" %}
-
-
+Sabutat
 
 
 
