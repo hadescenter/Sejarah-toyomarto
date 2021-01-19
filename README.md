@@ -1,4 +1,4 @@
-# SAMBUTAN
+# 🎤 SAMBUTAN
 
           Desa Toyomarto mempunyai keindahan alam dan kekayaan budaya yang berlimpah. dengan kandungan nilai-nilai luhur yang penting untuk kita lestarikan. Keindahan alam Toyoarto membentang sepanjang lereng Utara Gunung arjuna, dari bukit Buduk Asu hingga Candi Kasurangganan. Kekayaan budaya Toyomarto juga terhampar dari praktik tradisi tutur cerita, hingga ragam hasta karya. Namun, perkembangan teknologi tidak dapat dipungkiri telah mengikis perlahan rasa ketertarikan terahadap budaya dan lingkungan di sekitarnya. Maka dari itu sangat penting kiranya kita terus bergerak dinamis menjaga dan mengembangkan Desa Toyomarto dengan mengikuti perkembangan zaman tanpa melupakan akar budaya dan lingkungan
 

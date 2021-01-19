@@ -2,7 +2,7 @@
 description: Kata Pengantar
 ---
 
-# PENGANTAR
+# 📖 PENGANTAR
 
   Segala puji bagi Allah swt. atas segala karunia dan nikmat- Nya sehingga proses penulisan buku GRAMA TIRTA ini dapat berjalan lancar dan diselesaikan sesuai dengan harapan.
 
