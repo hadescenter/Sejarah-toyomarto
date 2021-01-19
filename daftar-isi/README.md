@@ -8,7 +8,7 @@
 | DAFTAR GAMBAR |  |
 | [BAB I MERANGKAI CERITA RAKYAT TOYOMARTO](sejarah-toyomarto/) |  |
 | [          1.1. CIKAL BAKAL DUSUN DI DESA TOYOMARTO](sejarah-toyomarto/cikal-bakal-dusun-di-desa-toyomarto.md) |  |
-|           1.2. CANDI KASURANGGANAN  |  |
+|           [1.2. CANDI KASURANGGANAN ](sejarah-toyomarto/1.2.-candi-kasurangganan.md) |  |
 |           1.3. BLOK PANTES |  |
 |           1.4. NYUGUH GAMELAN |  |
 |           1.5. MITOS PETEREN URUNG-URUNG |  |
