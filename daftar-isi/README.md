@@ -1,6 +1,8 @@
 # DAFTAR ISI
 
-| DAFTAR ISI |  |
+#### **DAFTAR ISI**
+
+| \*\*\*\* |  |
 | :--- | :--- |
 | [KATA SAMBUTAN](../) |  |
 | [KATA PENGANTAR](../kata-pengantar.md) |  |
