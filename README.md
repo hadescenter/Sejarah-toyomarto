@@ -1,2 +1,10 @@
-# Initial page
+# SAMBUTAN
+
+          Desa Toyomarto mempunyai keindahan alam dan kekayaan budaya yang berlimpah. dengan kandungan nilai-nilai luhur yang penting untuk kita lestarikan. Keindahan alam Toyoarto membentang sepanjang lereng Utara Gunung arjuna, dari bukit Buduk Asu hingga Candi Kasurangganan. Kekayaan budaya Toyomarto juga terhampar dari praktik tradisi tutur cerita, hingga ragam hasta karya. Namun, perkembangan teknologi tidak dapat dipungkiri telah mengikis perlahan rasa ketertarikan terahadap budaya dan lingkungan di sekitarnya. Maka dari itu sangat penting kiranya kita terus bergerak dinamis menjaga dan mengembangkan Desa Toyomarto dengan mengikuti perkembangan zaman tanpa melupakan akar budaya dan lingkungan
+
+          Sebagai upaya mewijudkan Toyomarto sebagai desa yang maju, mandiri, dan berbudaya, Tim Doktot Mengabdi Universitas Brawikaya tahun 2020 telah berikhtiar menyusun sejarah, budaya, perekonomian serta keunikan Desa Toyomarto dalam bentuk buku yang berjudul Gramana Tirta. Buku ini disusun oleh dosen dan mahasiswa sebagai langka awal mengukuhkan ulang jari diri gina menguatkan dan memberdayakan masyarakat Desa Toyomarto, khususnya melalui sektor pariwisata desa.
+
+          Dalam buku ini tertuang _grand design_ desa wisata air dengan tumpuan pengembangan pada wisata Pentungan Sari.Berawal dari pengungkapan fakta dan sejarah lisan sejumlah mata air, kisah dan cerita lisan padukuhan dan sejumlah lokasi khusus lainnya, hingga gambaran perkembagan seni dan kerajinan lokal. Pembukuan rangkaian sejarah dan cerita lisan ini menjadi rujukan penting pengembangan konsep rariwisata desa.
+
+          Terimakasih kepada Tim Doktor mengabdi Universitas Brawijaya tahun 2020,yang terdiri atas Dr.Sony Sukmawan, M.Pd.,M, Andhy Nurmansyah, S.S M.Hum, dan Dr. Ir. Ary Mustofa Achmad, MP. beserta tim mahasiswa: Novita Ainur rohman, S.T., Mifta Nur Aini, Awik Tamara, Devia Savitri, Nabilah Azzahra, Andini Amnah Lutfiah, Galuh Rahmah Ichan, Fadia Rizqi Ayu, Dea Syfa Ananda Meilita, dan Mulia Sabatain M. P., yang telah meluangkan waktu di sela-sela pandemi yang sedang melanda saat ini untuk membantu Desa Toyomarto menjadi lebih baik. Semoga hubungan baik di antara Desa Toyomarto dan Universitas Brawijaya ini dapat terus terjalin secaraca berkelanjutan.
 
