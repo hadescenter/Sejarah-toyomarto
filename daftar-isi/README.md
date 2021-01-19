@@ -1,15 +1,15 @@
 # DAFTAR ISI
 
-| Daftar Isi |  |
+| DAFTAR ISI |  |
 | :--- | :--- |
-| adsf |  |
-| asdf |  |
-| asdf |  |
-| asdf |  |
-| dasf |  |
-| sdfa |  |
+| KATA PENGANTAR |  |
+| DAFTAR ISI |  |
+| DAFTAR GAMBAR |  |
+| BAB I MERANGKAI CERITA RAKYAT TOYOMARTO |  |
+|  | 1.1 CIKAL BAKAL DUSUN DI DESA TOYOMARTO |
+|  |  |
 
-Sabutat
+
 
 
 
